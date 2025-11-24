@@ -40,8 +40,9 @@ at The Hebrew University of Jerusalem.
          |                
          v                
 +-------------------+     
-|   Mining Manager  |     
-| (Parallel Faucet) |     
+|   Mining Manager  | 
+|     (Simulated    |
+|  Parallel Faucet) |     
 +--------+----------+     
          |                
          v                
